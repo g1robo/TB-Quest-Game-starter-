@@ -1,0 +1,6 @@
+C:\Users\Jennifer\Documents\Visual Studio 2015\Projects\TB_QuestGame_robins4\TB_QuestGame\bin\Debug\TB_QuestGame.exe.config
+C:\Users\Jennifer\Documents\Visual Studio 2015\Projects\TB_QuestGame_robins4\TB_QuestGame\bin\Debug\TB_QuestGame.exe
+C:\Users\Jennifer\Documents\Visual Studio 2015\Projects\TB_QuestGame_robins4\TB_QuestGame\bin\Debug\TB_QuestGame.pdb
+C:\Users\Jennifer\Documents\Visual Studio 2015\Projects\TB_QuestGame_robins4\TB_QuestGame\obj\Debug\TB_QuestGame.csprojResolveAssemblyReference.cache
+C:\Users\Jennifer\Documents\Visual Studio 2015\Projects\TB_QuestGame_robins4\TB_QuestGame\obj\Debug\TB_QuestGame.exe
+C:\Users\Jennifer\Documents\Visual Studio 2015\Projects\TB_QuestGame_robins4\TB_QuestGame\obj\Debug\TB_QuestGame.pdb
